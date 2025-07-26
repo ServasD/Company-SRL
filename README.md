@@ -1,4 +1,7 @@
 # Company-SRL
+
+https://public.tableau.com/app/profile/servando2779/viz/AnlisisdelPersonalSRLCompany/Dashboard1
+
 Análisis del Personal SRL Company
 Se analizó la base de datos de RRHH de la Company SRL y se encontraron los siguientes hallazgos:
   * Una presencia del genero Femenino en todos los departamentos, pero el genero masculino no tienen presencia en Executive Officer
